@@ -57,6 +57,7 @@ Script automate.sh varies $\epsilon$, computes landmarks, persistence intervals 
 - `bash automate.sh`
 
 <h2> Citation </h2>
+
 - Arafat, Naheed Anjum, Debabrota Basu, and Stéphane Bressan. "Topological Data Analysis with $\epsilon$-net Induced Lazy Witness Complex." International Conference on Database and Expert Systems Applications. Springer, Cham, 2019.
   
 - Arafat, Naheed Anjum, Debabrota Basu, and Stéphane Bressan. "$\epsilon$-net Induced Lazy Witness Complexes on Graphs." arXiv preprint arXiv:2009.13071 (2020).
