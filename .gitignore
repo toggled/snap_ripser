@@ -61,9 +61,4 @@ tutorials/*.dSYM
 benchmarking/*.dat
 
 .vscode/
-
-datasets/
-examples/
-doxygen/
-test/
 tutorials/

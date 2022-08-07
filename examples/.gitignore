@@ -1,0 +1,8 @@
+*/*.dot
+*/.DS_Store
+*/*.dSYM
+efficiency/
+stephane_banal_question/
+test_wit_clust/
+sparseRips/
+*.sln
