@@ -52,7 +52,7 @@ Snap-ripser is an adaptation of Snap ([Graph library](https://github.com/snap-st
   
 <b> Script for multiple runs </b>
 
-Script automate.sh varies $\epsilon$, computes landmarks, persistence intervals and finally generates 1) various statistics (e.g. Landmark selection time, Total computation time, #landmarks) in .time files and 2) dim-0, dim-1,.. barcodes in .csv files. Find these files under respective [algorithm_name]\_[dataset_name]\_[$\epsilon$] folders.
+Script automate.sh varies $\epsilon$, computes landmarks, persistence intervals and finally generates 1) various statistics (e.g. Landmark selection time, Total computation time, #landmarks) in .time files and 2) dim-0, dim-1,.. barcodes in .csv files. Find these files under respective [algorithm_name]\_[dataset_name]\_[ $\epsilon$ ] folders.
 - `cd examples/effectiveness`
 - `bash automate.sh`
 
@@ -60,7 +60,7 @@ Script automate.sh varies $\epsilon$, computes landmarks, persistence intervals 
 
 - Arafat, Naheed Anjum, Debabrota Basu, and Stéphane Bressan. "Topological Data Analysis with $\epsilon$-net Induced Lazy Witness Complex." International Conference on Database and Expert Systems Applications. Springer, Cham, 2019.
   
-- Arafat, Naheed Anjum, Debabrota Basu, and Stéphane Bressan. "$\epsilon$-net Induced Lazy Witness Complexes on Graphs." arXiv preprint arXiv:2009.13071 (2020).
+- Arafat, Naheed Anjum, Debabrota Basu, and Stéphane Bressan. " $\epsilon$-net Induced Lazy Witness Complexes on Graphs." arXiv preprint arXiv:2009.13071 (2020).
 
 
 
