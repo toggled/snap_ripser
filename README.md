@@ -2,9 +2,9 @@ Snap-ripser is an adaptation of Snap ([Graph library](https://github.com/snap-st
 
 <b> Core-features </b>
 - Landmark selection heuristics for constructing LW filtration on graphs (function `select_landmarks()`):
-  - Greedy-$\epsilon$-net (criteria=`"eps_baseline2"`)
-  - Iterative-$\epsilon$-net (criteria = `"epsnetring"`)
-  - SPTpruning-$\epsilon$-Net (criteria=`"eps_filtering"`)
+  - Greedy $\epsilon$-net (criteria=`"eps_baseline2"`)
+  - Iterative $\epsilon$-net (criteria = `"epsnetring"`)
+  - SPTpruning $\epsilon$-Net (criteria=`"eps_filtering"`)
   - Others:
     - node-degree based landmark selection
     - random landmark selection
