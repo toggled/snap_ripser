@@ -42,7 +42,7 @@ Snap-ripser is an adaptation of Snap ([Graph library](https://github.com/snap-st
 
 <h2> Example Run </h2>
 
-- Weighted graph: To run Greedy-$\epsilon$-net with $\epsilon = 0.5$ for selecting landmarks on Celegans, and finally computing intervals up-to dimension 2.
+- Weighted graph: To run Greedy $\epsilon$-net with $\epsilon = 0.5$ for selecting landmarks on Celegans, and finally computing intervals up-to dimension 2.
   - `cd examples/effectiveness`
   - `./lazywitnessph_effect --format wgraph ../celegans_final.edges --heuristic eps_baseline2 --dim 2 --epsilon 0.1 --iterations 1`
 
